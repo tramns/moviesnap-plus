@@ -70,7 +70,7 @@ A modern React movie application built with Vite for browsing and managing your 
 
 ### 🎬 MovieCard Component
 - Interactive movie cards with poster images
-- Animated heart icon for favorites (🤍 ↔ ❤️)
+- Animated heart icon for favorites
 - Movie details display (title, description, release year)
 - Hover effects and smooth transitions
 
