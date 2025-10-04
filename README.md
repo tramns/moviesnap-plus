@@ -1,4 +1,4 @@
-# 🎬 MovieSnap+ 
+# 🎬 Moviesnap+ 
 
 A modern React movie application built with Vite for browsing and managing your favorite movies.
 
