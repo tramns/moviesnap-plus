@@ -40,27 +40,21 @@ A modern React movie application built with Vite for browsing and managing your 
    git clone https://github.com/your-username/moviesnap-plus.git
    cd moviesnap-plus
    ```
-
-2. **Navigate to frontend directory**
-   ```bash
-   cd frontend
-   ```
-
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    npm install
    # or
    yarn install
    ```
 
-4. **Start development server**
+3. **Start development server**
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    ```
    http://localhost:5173
    ```
