@@ -84,6 +84,7 @@ A modern React movie application built with Vite for browsing and managing your 
 - Empty state when no favorites
 - Consistent styling with main app
 
-
+## 🌟 Snapshot
+<img width="2780" height="1486" alt="image" src="https://github.com/user-attachments/assets/60f6ab51-ccb5-40e7-9c81-5ccb1454feb5" />
 
 
